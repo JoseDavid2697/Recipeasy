@@ -1,0 +1,11 @@
+{
+  "name": "recipeasy",
+  "version": "1.0.0",
+  "description": "Simple recipes how-tos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jose David Rodriguez",
+  "license": "MIT"
+}
